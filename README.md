@@ -45,14 +45,14 @@ Contributors to this project and manuscript include:
     ├── README.md
     ├── LICENSE
     ├── .gitignore
-    ├── meta             # repository assets
+    ├── meta/            # repository assets
     ├── data/
     │   └── processed
     ├── results/
     │   ├── figures      # manuscript figures
     │   └── tables       # csv/tsv for main + supp tables
-    ├── src              # analysis code + reusable functions
-    └── docs             # text, submission files, extra documentation
+    ├── src/             # analysis code + reusable functions
+    └── docs/            # text, submission files, extra documentation
 ```
 
 ---
