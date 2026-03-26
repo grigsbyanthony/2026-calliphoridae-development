@@ -8,10 +8,12 @@
 ![16S](https://img.shields.io/badge/data-16S%20rRNA-orange)
 ![MSU](https://img.shields.io/badge/institution-Michigan%20State%20University-18453B)
 
-This repository contains the code, data, and context for the manuscript titled **Environmental and developmental drivers of blow fly (Diptera: Calliphoridae) microbiome succession**. The data presented in this study was generated between 2023-2024. The repository will be updated as progress on the manuscript is made; and the accessible content will reflect this.
-
 > [!IMPORTANT]
 > This README.md file was last updated 2026-03-26. The information presented here may have changed since then.
+
+<img src="meta/asv_genera_chord_diagram-trans.png" align="right" width="350">
+
+This repository contains the code, data, and context for the manuscript titled **Environmental and developmental drivers of blow fly (Diptera: Calliphoridae) microbiome succession**. The data presented in this study was generated between 2023-2024. The repository will be updated as progress on the manuscript is made; and the accessible content will reflect this.
 
 - [x] Data analysis
 - [x] Manuscript draft
@@ -24,6 +26,9 @@ Contributors to this project and manuscript include:
 - Kelly A. Waters @ Michigan State University
 - Dr. Jennifer L. Pechal @ Michigan State University
 - Dr. M. Eric Benbow @ Michigan State University (corresponding author)
+
+
+<br clear="right"/>
 
 ---
 
