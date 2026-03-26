@@ -1,0 +1,10 @@
+"Table S7. Two-way ANOVA results for alpha diversity metrics testing developmental stage, carcass replicate, and their interaction effects in lab-reared Phormia regina."							
+Metric	Factor	SS	df	F	p-value	η²	Partial η²
+Shannon Diversity	Stage	30.12	4	46.52	<0.001	0.385	0.580
+	Replicate	5.02	2	15.49	<0.001	0.064	0.187
+	Stage*Replicate	21.16	8	16.34	<0.001	0.271	0.492
+	Residuals	21.85	135			0.280	
+Faith’s PD	Stage	301.21	4	19.62	<0.001	0.309	0.368
+	Replicate	21.56	2	2.81	0.064	0.022	0.040
+	Stage*Replicate	135.36	8	4.41	<0.001	0.139	0.207
+	Residuals	518.07	135			0.531	

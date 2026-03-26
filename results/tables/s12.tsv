@@ -1,0 +1,13 @@
+Table S12. Pairwise PERMANOVA comparisons of bacterial community composition between developmental stages in lab-reared Phormia regina.									
+Comparison	Bray-Curtis			Unweighted UniFrac			Weighted UniFrac		
+	R²	F	p-value	R²	F	p-value	R²	F	p-value
+1st vs 2nd	0.224	16.75	0.001	0.051	3.11	0.003	0.045	2.75	0.083
+1st vs 3rd	0.185	13.14	0.001	0.256	19.92	0.001	0.157	10.82	0.001
+1st vs Pupa	0.270	21.47	0.001	0.363	33.11	0.001	0.236	17.96	0.001
+1st vs Adult	0.263	20.66	0.001	0.150	10.21	0.001	0.324	27.78	0.001
+2nd vs 3rd	0.430	43.78	0.001	0.302	25.06	0.001	0.305	25.51	0.001
+2nd vs Pupa	0.514	61.33	0.001	0.382	35.90	0.001	0.458	49.08	0.001
+2nd vs Adult	0.361	32.71	0.001	0.184	13.07	0.001	0.580	80.05	0.001
+3rd vs Pupa	0.215	15.91	0.001	0.295	24.33	0.001	0.306	25.56	0.001
+3rd vs Adult	0.391	37.23	0.001	0.268	21.25	0.001	0.618	93.98	0.001
+Pupa vs Adult	0.428	43.32	0.001	0.277	22.24	0.001	0.571	77.20	0.001

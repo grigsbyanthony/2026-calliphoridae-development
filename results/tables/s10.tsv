@@ -1,0 +1,14 @@
+"Table S10. PERMANOVA results for beta diversity metrics testing developmental stage, carcass replicate, and their interaction effects in lab-reared Phormia regina."						
+Metric	Factor	df	SS	R² (%)	F	p-value
+Bray-Curtis	Stage	4	22.52	44.12	44.02	0.001
+	Replicate	2	2.95	5.78	11.54	0.001
+	Stage*Replicate	8	8.31	16.28	8.12	0.001
+	Residual	135	17.27	33.82		
+Unweighted UniFrac	Stage	4	9.44	34.55	23.23	0.001
+	Replicate	2	1.35	4.96	6.66	0.001
+	Stage*Replicate	8	2.81	10.30	3.46	0.001
+	Residual	135	13.71	50.19		
+Weighted UniFrac	Stage	4	1.23	44.99	61.80	0.001
+	Replicate	2	0.16	5.76	15.82	0.001
+	Stage*Replicate	8	0.68	24.69	16.96	0.001
+	Residual	135	0.67	24.57		

@@ -1,0 +1,7 @@
+Table S2. Pairwise Wilcoxon rank-sum tests for alpha diversity between consecutive developmental stages.		
+Comparison	Shannon Diversity	Fatih’s PD
+	p-value	p-value
+1st instar → 2nd instar	0.994	0.307
+2nd instar → 3rd instar	<0.001	<0.001
+3rd instar → Pupal	0.415	0.328
+Pupal → Adult	<0.001	0.504

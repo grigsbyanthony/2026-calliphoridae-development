@@ -1,0 +1,6 @@
+Table S4. Kruskal-Wallis tests for overall effects of rearing status and developmental stage on alpha diversity.				
+Factor	Metric	χ²	df	p-value
+Rearing condition	Shannon	1.04	1	0.308
+	Faith’s PD	40.74	1	<0.001
+Stage	Shannon	97.74	2	<0.001
+	Faith’s PD	11.57	2	0.003

@@ -1,0 +1,6 @@
+"Table S5. Pairwise Wilcoxon rank-sum tests comparing alpha diversity between developmental stages, pooled across rearing status."				
+Comparison	Shannon Diversity		Faith’s PD	
+	p-value	Sig.	p-value	Sig.
+3rd vs Pupa	<0.001	***	0.008	**
+3rd vs Adult	<0.001	***	0.272	ns
+Pupa vs Adult	<0.001	***	0.002	**

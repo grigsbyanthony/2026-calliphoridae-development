@@ -1,0 +1,5 @@
+Table S8. PERMANOVA results for bacterial community composition comparing rearing conditions (lab-reared vs. carrion-reared).					
+Metric	df	SS	R² (%)	F	p-value
+Bray-Curtis	"1, 178"	6.42	9.97	19.71	0.001
+Unweighted UniFrac	"1, 178"	4.06	12.65	25.78	0.001
+Weighted UniFrac	"1, 178"	0.26	8.84	17.26	0.001

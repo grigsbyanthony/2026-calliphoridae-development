@@ -1,0 +1,276 @@
+sample-id	Collection-Date	Group	Size-mm	Spiracles	fly_taxa	Sex	Stage	Generation	Class	RearingGroup	EggGen	Status	Carcasscompare
+#q2:types	categorical	categorical	numeric	numeric	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical
+A1-E-Mouth	2023-07-19	EGG					CarcassEgg		Carcass Mouth (Egg)	A1-E			Egg Collection
+A1-E-Rectal	2023-07-19	EGG					CarcassEgg		Carcass Rectum (Egg)	A1-E			Egg Collection
+A1-E-Skin	2023-07-19	EGG					CarcassEgg		Carcass Skin (Egg)	A1-E			Egg Collection
+A2-E-Mouth	2023-07-19	EGG					CarcassEgg		Carcass Mouth (Egg)	A2-E			Egg Collection
+A2-E-Rectal	2023-07-19	EGG					CarcassEgg		Carcass Rectum (Egg)	A2-E			Egg Collection
+A2-E-Skin	2023-07-19	EGG					CarcassEgg		Carcass Skin (Egg)	A2-E			Egg Collection
+A3-E-Mouth	2023-07-19	EGG					CarcassEgg		Carcass Mouth (Egg)	A3-E			Egg Collection
+A3-E-Rectal	2023-07-19	EGG					CarcassEgg		Carcass Rectum (Egg)	A3-E			Egg Collection
+A3-E-Skin	2023-07-19	EGG					CarcassEgg		Carcass Skin (Egg)	A3-E			Egg Collection
+A1-CAGE-E	2023-07-19						Enclosure		Environmental	A1-E			
+A2-CAGE-E	2023-07-19						Enclosure		Environmental	A2-E			
+A3-CAGE-E	2023-07-19						Enclosure		Environmental	A3-E			
+LIVER-SLURRY	2023-07-19	GENERAL					Food		Food				
+A1-EGG-SITE	2023-07-19	EGG					CarcassEgg		Carcass Egg Site	A1-E			Egg Collection
+A2-EGG-SITE	2023-07-19	EGG					CarcassEgg		Carcass Egg Site	A2-E			Egg Collection
+A3-EGG-SITE	2023-07-19	EGG					CarcassEgg		Carcass Egg Site	A3-E			Egg Collection
+A1-EGG-GEN-1	2023-07-19	EGG					Egg (Generation 0)	1st	Insect	A1-E			
+A2-EGG-GEN-1	2023-07-19	EGG					Egg (Generation 0)	1st	Insect	A2-E			
+A3-EGG-GEN-1	2023-07-19	EGG					Egg (Generation 0)	1st	Insect	A3-E			
+A1-1-E1	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A1-E			
+A1-1-E2	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A1-E			
+A1-1-E3	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A1-E			
+A1-1-E4	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A1-E			
+A1-1-E5	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A1-E			
+A1-1-E6	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A1-E			
+A1-1-E7	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A1-E			
+A1-1-E8	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A1-E			
+A1-1-E9	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A1-E			
+A1-1-E10	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A1-E			
+A2-1-E1	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A2-E			
+A2-1-E2	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A2-E			
+A2-1-E3	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A2-E			
+A2-1-E4	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A2-E			
+A2-1-E5	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A2-E			
+A2-1-E6	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A2-E			
+A2-1-E7	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A2-E			
+A2-1-E8	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A2-E			
+A2-1-E9	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A2-E			
+A2-1-E10	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A2-E			
+A3-1-E1	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A3-E			
+A3-1-E2	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A3-E			
+A3-1-E3	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A3-E			
+A3-1-E4	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A3-E			
+A3-1-E5	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A3-E			
+A3-1-E6	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A3-E			
+A3-1-E7	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A3-E			
+A3-1-E8	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A3-E			
+A3-1-E9	2023-07-20	EGG	2	1	P. regina		1st instar	1st	Insect	A3-E			
+A3-1-E10	2023-07-20	EGG	3	1	P. regina		1st instar	1st	Insect	A3-E			
+A1-2-E1	2023-07-21	EGG	5	2	P. regina		2nd instar	1st	Insect	A1-E			
+A1-2-E2	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A1-E			
+A1-2-E3	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A1-E			
+A1-2-E4	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A1-E			
+A1-2-E5	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A1-E			
+A1-2-E6	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A1-E			
+A1-2-E7	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A1-E			
+A1-2-E8	2023-07-21	EGG	8	2	P. regina		2nd instar	1st	Insect	A1-E			
+A1-2-E9	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A1-E			
+A1-2-E10	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A1-E			
+A2-2-E1	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A2-E			
+A2-2-E2	2023-07-21	EGG	5	2	P. regina		2nd instar	1st	Insect	A2-E			
+A2-2-E3	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A2-E			
+A2-2-E4	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A2-E			
+A2-2-E5	2023-07-21	EGG	5	2	P. regina		2nd instar	1st	Insect	A2-E			
+A2-2-E6	2023-07-21	EGG	5	2	P. regina		2nd instar	1st	Insect	A2-E			
+A2-2-E7	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A2-E			
+A2-2-E8	2023-07-21	EGG	5	2	P. regina		2nd instar	1st	Insect	A2-E			
+A2-2-E9	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A2-E			
+A2-2-E10	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A2-E			
+A3-2-E1	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A3-E			
+A3-2-E2	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A3-E			
+A3-2-E3	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A3-E			
+A3-2-E4	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A3-E			
+A3-2-E5	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A3-E			
+A3-2-E6	2023-07-21	EGG	7	2	P. regina		2nd instar	1st	Insect	A3-E			
+A3-2-E7	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A3-E			
+A3-2-E8	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A3-E			
+A3-2-E9	2023-07-21	EGG	6	2	P. regina		2nd instar	1st	Insect	A3-E			
+A3-2-E10	2023-07-21	EGG	8	2	P. regina		2nd instar	1st	Insect	A3-E			
+A1-3-E1	2023-07-24	EGG	11	3	P. regina		3rd instar	1st	Insect	A1-E		Lab Reared	
+A1-3-E2	2023-07-24	EGG	11	3	P. regina		3rd instar	1st	Insect	A1-E		Lab Reared	
+A1-3-E3	2023-07-24	EGG	12	3	P. regina		3rd instar	1st	Insect	A1-E		Lab Reared	
+A1-3-E4	2023-07-24	EGG	12	3	P. regina		3rd instar	1st	Insect	A1-E		Lab Reared	
+A1-3-E5	2023-07-24	EGG	13	3	P. regina		3rd instar	1st	Insect	A1-E		Lab Reared	
+A1-3-E6	2023-07-24	EGG	12	3	P. regina		3rd instar	1st	Insect	A1-E		Lab Reared	
+A1-3-E7	2023-07-24	EGG	13	3	P. regina		3rd instar	1st	Insect	A1-E		Lab Reared	
+A1-3-E8	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A1-E		Lab Reared	
+A1-3-E9	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A1-E		Lab Reared	
+A1-3-E10	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A1-E		Lab Reared	
+A2-3-E1	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A2-E		Lab Reared	
+A2-3-E2	2023-07-24	EGG	13	3	P. regina		3rd instar	1st	Insect	A2-E		Lab Reared	
+A2-3-E3	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A2-E		Lab Reared	
+A2-3-E4	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A2-E		Lab Reared	
+A2-3-E5	2023-07-24	EGG	12	3	P. regina		3rd instar	1st	Insect	A2-E		Lab Reared	
+A2-3-E6	2023-07-24	EGG	12	3	P. regina		3rd instar	1st	Insect	A2-E		Lab Reared	
+A2-3-E7	2023-07-24	EGG	13	3	P. regina		3rd instar	1st	Insect	A2-E		Lab Reared	
+A2-3-E8	2023-07-24	EGG	12	3	P. regina		3rd instar	1st	Insect	A2-E		Lab Reared	
+A2-3-E9	2023-07-24	EGG	11	3	P. regina		3rd instar	1st	Insect	A2-E		Lab Reared	
+A2-3-E10	2023-07-24	EGG	12	3	P. regina		3rd instar	1st	Insect	A2-E		Lab Reared	
+A3-3-E1	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A3-E		Lab Reared	
+A3-3-E2	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A3-E		Lab Reared	
+A3-3-E3	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A3-E		Lab Reared	
+A3-3-E4	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A3-E		Lab Reared	
+A3-3-E5	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A3-E		Lab Reared	
+A3-3-E6	2023-07-24	EGG	13	3	P. regina		3rd instar	1st	Insect	A3-E		Lab Reared	
+A3-3-E7	2023-07-24	EGG	14	3	P. regina		3rd instar	1st	Insect	A3-E		Lab Reared	
+A3-3-E8	2023-07-24	EGG	13	3	P. regina		3rd instar	1st	Insect	A3-E		Lab Reared	
+A3-3-E9	2023-07-24	EGG	12	3	P. regina		3rd instar	1st	Insect	A3-E		Lab Reared	
+A3-3-E10	2023-07-24	EGG	12	3	P. regina		3rd instar	1st	Insect	A3-E		Lab Reared	
+A1-P-E1	2023-07-27	EGG	6		P. regina		Pupal	1st	Insect	A1-E		Lab Reared	
+A1-P-E2	2023-07-27	EGG	6		P. regina		Pupal	1st	Insect	A1-E		Lab Reared	
+A1-P-E3	2023-07-27	EGG	6		P. regina		Pupal	1st	Insect	A1-E		Lab Reared	
+A1-P-E4	2023-07-27	EGG	7		P. regina		Pupal	1st	Insect	A1-E		Lab Reared	
+A1-P-E5	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A1-E		Lab Reared	
+A1-P-E6	2023-07-27	EGG	7		P. regina		Pupal	1st	Insect	A1-E		Lab Reared	
+A1-P-E7	2023-07-27	EGG	7		P. regina		Pupal	1st	Insect	A1-E		Lab Reared	
+A1-P-E8	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A1-E		Lab Reared	
+A1-P-E9	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A1-E		Lab Reared	
+A1-P-E10	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A1-E		Lab Reared	
+A2-P-E1	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A2-E		Lab Reared	
+A2-P-E2	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A2-E		Lab Reared	
+A2-P-E3	2023-07-27	EGG	9		P. regina		Pupal	1st	Insect	A2-E		Lab Reared	
+A2-P-E4	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A2-E		Lab Reared	
+A2-P-E5	2023-07-27	EGG	9		P. regina		Pupal	1st	Insect	A2-E		Lab Reared	
+A2-P-E6	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A2-E		Lab Reared	
+A2-P-E7	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A2-E		Lab Reared	
+A2-P-E8	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A2-E		Lab Reared	
+A2-P-E9	2023-07-27	EGG	9		P. regina		Pupal	1st	Insect	A2-E		Lab Reared	
+A2-P-E10	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A2-E		Lab Reared	
+A3-P-E1	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A3-E		Lab Reared	
+A3-P-E2	2023-07-27	EGG	9		P. regina		Pupal	1st	Insect	A3-E		Lab Reared	
+A3-P-E3	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A3-E		Lab Reared	
+A3-P-E4	2023-07-27	EGG	9		P. regina		Pupal	1st	Insect	A3-E		Lab Reared	
+A3-P-E5	2023-07-27	EGG	9		P. regina		Pupal	1st	Insect	A3-E		Lab Reared	
+A3-P-E6	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A3-E		Lab Reared	
+A3-P-E7	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A3-E		Lab Reared	
+A3-P-E8	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A3-E		Lab Reared	
+A3-P-E9	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A3-E		Lab Reared	
+A3-P-E10	2023-07-27	EGG	8		P. regina		Pupal	1st	Insect	A3-E		Lab Reared	
+A1-A-E1	2023-08-04	EGG	7		P. regina	Male	Adult	1st	Insect	A1-E		Lab Reared	
+A1-A-E2	2023-08-04	EGG	8		P. regina	Male	Adult	1st	Insect	A1-E		Lab Reared	
+A1-A-E3	2023-08-04	EGG	7		P. regina	Male	Adult	1st	Insect	A1-E		Lab Reared	
+A1-A-E4	2023-08-04	EGG	8		P. regina	Female	Adult	1st	Insect	A1-E		Lab Reared	
+A1-A-E5	2023-08-04	EGG	8		P. regina	Female	Adult	1st	Insect	A1-E		Lab Reared	
+A1-A-E6	2023-08-04	EGG	7		P. regina	Female	Adult	1st	Insect	A1-E		Lab Reared	
+A1-A-E7	2023-08-04	EGG	8		P. regina	Female	Adult	1st	Insect	A1-E		Lab Reared	
+A1-A-E8	2023-08-04	EGG	7		P. regina	Male	Adult	1st	Insect	A1-E		Lab Reared	
+A1-A-E9	2023-08-04	EGG	6		P. regina	Male	Adult	1st	Insect	A1-E		Lab Reared	
+A1-A-E10	2023-08-04	EGG	10		P. regina	Female	Adult	1st	Insect	A1-E		Lab Reared	
+A2-A-E1	2023-08-03	EGG	8		P. regina	Male	Adult	1st	Insect	A2-E		Lab Reared	
+A2-A-E2	2023-08-03	EGG	8		P. regina	Female	Adult	1st	Insect	A2-E		Lab Reared	
+A2-A-E3	2023-08-03	EGG	10		P. regina	Female	Adult	1st	Insect	A2-E		Lab Reared	
+A2-A-E4	2023-08-03	EGG	7		P. regina	Female	Adult	1st	Insect	A2-E		Lab Reared	
+A2-A-E5	2023-08-03	EGG	7		P. regina	Female	Adult	1st	Insect	A2-E		Lab Reared	
+A2-A-E6	2023-08-03	EGG	8		P. regina	Female	Adult	1st	Insect	A2-E		Lab Reared	
+A2-A-E7	2023-08-03	EGG	7		P. regina	Male	Adult	1st	Insect	A2-E		Lab Reared	
+A2-A-E8	2023-08-03	EGG	9		P. regina	Female	Adult	1st	Insect	A2-E		Lab Reared	
+A2-A-E9	2023-08-03	EGG	8		P. regina	Male	Adult	1st	Insect	A2-E		Lab Reared	
+A2-A-E10	2023-08-03	EGG	8		P. regina	Male	Adult	1st	Insect	A2-E		Lab Reared	
+A3-A-E1	2023-08-03	EGG	6		P. regina	Male	Adult	1st	Insect	A3-E		Lab Reared	
+A3-A-E2	2023-08-03	EGG	7		P. regina	Female	Adult	1st	Insect	A3-E		Lab Reared	
+A3-A-E3	2023-08-03	EGG	8		P. regina	Female	Adult	1st	Insect	A3-E		Lab Reared	
+A3-A-E4	2023-08-03	EGG	6		P. regina	Male	Adult	1st	Insect	A3-E		Lab Reared	
+A3-A-E5	2023-08-03	EGG	6		P. regina	Male	Adult	1st	Insect	A3-E		Lab Reared	
+A3-A-E6	2023-08-03	EGG	6		P. regina	Male	Adult	1st	Insect	A3-E		Lab Reared	
+A3-A-E7	2023-08-03	EGG	8		P. regina	Female	Adult	1st	Insect	A3-E		Lab Reared	
+A3-A-E8	2023-08-03	EGG	7		P. regina	Female	Adult	1st	Insect	A3-E		Lab Reared	
+A3-A-E9	2023-08-03	EGG	8		P. regina	Female	Adult	1st	Insect	A3-E		Lab Reared	
+A3-A-E10	2023-08-03	EGG	9		P. regina	Female	Adult	1st	Insect	A3-E		Lab Reared	
+A1-3-LM1	2023-07-21	LM	9	3	P. regina		3rd instar	1st	Insect	A1-LM		Carrion Reared	
+A1-3-LM2	2023-07-21	LM	11	3	P. regina		3rd instar	1st	Insect	A1-LM		Carrion Reared	
+A1-3-LM3	2023-07-21	LM	10	3	P. regina		3rd instar	1st	Insect	A1-LM		Carrion Reared	
+A1-3-LM4	2023-07-21	LM	12	3	P. regina		3rd instar	1st	Insect	A1-LM		Carrion Reared	
+A1-3-LM5	2023-07-21	LM	10	3	P. regina		3rd instar	1st	Insect	A1-LM		Carrion Reared	
+A1-3-LM6	2023-07-21	LM	10	3	P. regina		3rd instar	1st	Insect	A1-LM		Carrion Reared	
+A1-3-LM7	2023-07-21	LM	13	3	P. regina		3rd instar	1st	Insect	A1-LM		Carrion Reared	
+A1-3-LM8	2023-07-21	LM	11	3	P. regina		3rd instar	1st	Insect	A1-LM		Carrion Reared	
+A1-3-LM9	2023-07-21	LM	13	3	P. regina		3rd instar	1st	Insect	A1-LM		Carrion Reared	
+A1-3-LM10	2023-07-21	LM	11	3	P. regina		3rd instar	1st	Insect	A1-LM		Carrion Reared	
+A2-3-LM1	2023-07-21	LM	11	3	P. regina		3rd instar	1st	Insect	A2-LM		Carrion Reared	
+A2-3-LM2	2023-07-21	LM	11	3	P. regina		3rd instar	1st	Insect	A2-LM		Carrion Reared	
+A2-3-LM3	2023-07-21	LM	12	3	P. regina		3rd instar	1st	Insect	A2-LM		Carrion Reared	
+A2-3-LM4	2023-07-21	LM	12	3	P. regina		3rd instar	1st	Insect	A2-LM		Carrion Reared	
+A2-3-LM5	2023-07-21	LM	14	3	P. regina		3rd instar	1st	Insect	A2-LM		Carrion Reared	
+A2-3-LM6	2023-07-21	LM	13	3	P. regina		3rd instar	1st	Insect	A2-LM		Carrion Reared	
+A2-3-LM7	2023-07-21	LM	13	3	P. regina		3rd instar	1st	Insect	A2-LM		Carrion Reared	
+A2-3-LM8	2023-07-21	LM	13	3	P. regina		3rd instar	1st	Insect	A2-LM		Carrion Reared	
+A2-3-LM9	2023-07-21	LM	14	3	P. regina		3rd instar	1st	Insect	A2-LM		Carrion Reared	
+A2-3-LM10	2023-07-21	LM	14	3	P. regina		3rd instar	1st	Insect	A2-LM		Carrion Reared	
+A3-3-LM1	2023-07-21	LM	13	3	P. regina		3rd instar	1st	Insect	A3-LM		Carrion Reared	
+A3-3-LM2	2023-07-21	LM	12	3	P. regina		3rd instar	1st	Insect	A3-LM		Carrion Reared	
+A3-3-LM3	2023-07-21	LM	12	3	P. regina		3rd instar	1st	Insect	A3-LM		Carrion Reared	
+A3-3-LM4	2023-07-21	LM	12	3	P. regina		3rd instar	1st	Insect	A3-LM		Carrion Reared	
+A3-3-LM5	2023-07-21	LM	12	3	P. regina		3rd instar	1st	Insect	A3-LM		Carrion Reared	
+A3-3-LM6	2023-07-21	LM	12	3	P. regina		3rd instar	1st	Insect	A3-LM		Carrion Reared	
+A3-3-LM7	2023-07-21	LM	13	3	P. regina		3rd instar	1st	Insect	A3-LM		Carrion Reared	
+A3-3-LM8	2023-07-21	LM	11	3	P. regina		3rd instar	1st	Insect	A3-LM		Carrion Reared	
+A3-3-LM9	2023-07-21	LM	12	3	P. regina		3rd instar	1st	Insect	A3-LM		Carrion Reared	
+A3-3-LM10	2023-07-21	LM	10	3	P. regina		3rd instar	1st	Insect	A3-LM		Carrion Reared	
+A1-P-LM1	2023-07-25	LM	8		P. regina		Pupal	1st	Insect	A1-LM		Carrion Reared	
+A1-P-LM2	2023-07-25	LM	8		P. regina		Pupal	1st	Insect	A1-LM		Carrion Reared	
+A1-P-LM3	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A1-LM		Carrion Reared	
+A1-P-LM4	2023-07-25	LM	10		P. regina		Pupal	1st	Insect	A1-LM		Carrion Reared	
+A1-P-LM5	2023-07-25	LM	11		P. regina		Pupal	1st	Insect	A1-LM		Carrion Reared	
+A1-P-LM6	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A1-LM		Carrion Reared	
+A1-P-LM7	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A1-LM		Carrion Reared	
+A1-P-LM8	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A1-LM		Carrion Reared	
+A1-P-LM9	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A1-LM		Carrion Reared	
+A1-P-LM10	2023-07-25	LM	8		P. regina		Pupal	1st	Insect	A1-LM		Carrion Reared	
+A2-P-LM1	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A2-LM		Carrion Reared	
+A2-P-LM2	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A2-LM		Carrion Reared	
+A2-P-LM3	2023-07-25	LM	8		P. regina		Pupal	1st	Insect	A2-LM		Carrion Reared	
+A2-P-LM4	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A2-LM		Carrion Reared	
+A2-P-LM5	2023-07-25	LM	11		P. regina		Pupal	1st	Insect	A2-LM		Carrion Reared	
+A2-P-LM6	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A2-LM		Carrion Reared	
+A2-P-LM7	2023-07-25	LM	10		P. regina		Pupal	1st	Insect	A2-LM		Carrion Reared	
+A2-P-LM8	2023-07-25	LM	11		P. regina		Pupal	1st	Insect	A2-LM		Carrion Reared	
+A2-P-LM9	2023-07-25	LM	7		P. regina		Pupal	1st	Insect	A2-LM		Carrion Reared	
+A2-P-LM10	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A2-LM		Carrion Reared	
+A3-P-LM1	2023-07-25	LM	10		P. regina		Pupal	1st	Insect	A3-LM		Carrion Reared	
+A3-P-LM2	2023-07-25	LM	8		P. regina		Pupal	1st	Insect	A3-LM		Carrion Reared	
+A3-P-LM3	2023-07-25	LM	8		P. regina		Pupal	1st	Insect	A3-LM		Carrion Reared	
+A3-P-LM4	2023-07-25	LM	8		P. regina		Pupal	1st	Insect	A3-LM		Carrion Reared	
+A3-P-LM5	2023-07-25	LM	8		P. regina		Pupal	1st	Insect	A3-LM		Carrion Reared	
+A3-P-LM6	2023-07-25	LM	8		P. regina		Pupal	1st	Insect	A3-LM		Carrion Reared	
+A3-P-LM7	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A3-LM		Carrion Reared	
+A3-P-LM8	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A3-LM		Carrion Reared	
+A3-P-LM9	2023-07-25	LM	8		P. regina		Pupal	1st	Insect	A3-LM		Carrion Reared	
+A3-P-LM10	2023-07-25	LM	9		P. regina		Pupal	1st	Insect	A3-LM		Carrion Reared	
+A1-A-LM1	2023-08-03	LM	10		P. regina	Female	Adult	1st	Insect	A1-LM		Carrion Reared	
+A1-A-LM2	2023-08-03	LM	9		P. regina	Male	Adult	1st	Insect	A1-LM		Carrion Reared	
+A1-A-LM3	2023-08-03	LM	7		P. regina	Male	Adult	1st	Insect	A1-LM		Carrion Reared	
+A1-A-LM4	2023-08-03	LM	5		P. regina	Male	Adult	1st	Insect	A1-LM		Carrion Reared	
+A1-A-LM5	2023-08-03	LM	7		P. regina	Male	Adult	1st	Insect	A1-LM		Carrion Reared	
+A1-A-LM6	2023-08-03	LM	9		P. regina	Female	Adult	1st	Insect	A1-LM		Carrion Reared	
+A1-A-LM7	2023-08-03	LM	7		P. regina	Male	Adult	1st	Insect	A1-LM		Carrion Reared	
+A1-A-LM8	2023-08-03	LM	7		P. regina	Male	Adult	1st	Insect	A1-LM		Carrion Reared	
+A1-A-LM9	2023-08-03	LM	10		P. regina	Female	Adult	1st	Insect	A1-LM		Carrion Reared	
+A1-A-LM10	2023-08-03	LM	10		P. regina	Female	Adult	1st	Insect	A1-LM		Carrion Reared	
+A2-A-LM1	2023-08-03	LM	9		P. regina	Male	Adult	1st	Insect	A2-LM		Carrion Reared	
+A2-A-LM2	2023-08-03	LM	8		P. regina	Male	Adult	1st	Insect	A2-LM		Carrion Reared	
+A2-A-LM3	2023-08-03	LM	9		P. regina	Female	Adult	1st	Insect	A2-LM		Carrion Reared	
+A2-A-LM4	2023-08-03	LM	7		P. regina	Male	Adult	1st	Insect	A2-LM		Carrion Reared	
+A2-A-LM5	2023-08-03	LM	7		P. regina	Female	Adult	1st	Insect	A2-LM		Carrion Reared	
+A2-A-LM6	2023-08-03	LM	10		P. regina	Female	Adult	1st	Insect	A2-LM		Carrion Reared	
+A2-A-LM7	2023-08-03	LM	8		P. regina	Male	Adult	1st	Insect	A2-LM		Carrion Reared	
+A2-A-LM8	2023-08-03	LM	10		P. regina	Male	Adult	1st	Insect	A2-LM		Carrion Reared	
+A2-A-LM9	2023-08-03	LM	9		P. regina	Female	Adult	1st	Insect	A2-LM		Carrion Reared	
+A2-A-LM10	2023-08-03	LM	10		P. regina	Female	Adult	1st	Insect	A2-LM		Carrion Reared	
+A3-A-LM1	2023-08-04	LM	9		P. regina	Male	Adult	1st	Insect	A3-LM		Carrion Reared	
+A3-A-LM2	2023-08-04	LM	10		P. regina	Female	Adult	1st	Insect	A3-LM		Carrion Reared	
+A3-A-LM3	2023-08-04	LM	9		P. regina	Female	Adult	1st	Insect	A3-LM		Carrion Reared	
+A3-A-LM4	2023-08-04	LM	8		P. regina	Female	Adult	1st	Insect	A3-LM		Carrion Reared	
+A3-A-LM5	2023-08-04	LM	8		P. regina	Male	Adult	1st	Insect	A3-LM		Carrion Reared	
+A3-A-LM6	2023-08-04	LM	9		P. regina	Female	Adult	1st	Insect	A3-LM		Carrion Reared	
+A3-A-LM7	2023-08-04	LM	10		P. regina	Female	Adult	1st	Insect	A3-LM		Carrion Reared	
+A3-A-LM8	2023-08-04	LM	9		P. regina	Female	Adult	1st	Insect	A3-LM		Carrion Reared	
+A3-A-LM9	2023-08-04	LM	9		P. regina	Female	Adult	1st	Insect	A3-LM		Carrion Reared	
+A3-A-LM10	2023-08-04	LM	10		P. regina	Female	Adult	1st	Insect	A3-LM		Carrion Reared	
+A1-E-EGG-2	2023-08-03	EGG					Egg (Generation 1)	2nd	Insect	A1-E	2nd Generation - Egg	Lab Reared	
+A2-E-EGG-2	2023-08-03	EGG					Egg (Generation 1)	2nd	Insect	A2-E	2nd Generation - Egg	Lab Reared	
+A3-E-EGG-2	2023-08-03	EGG					Egg (Generation 1)	2nd	Insect	A3-E	2nd Generation - Egg	Lab Reared	
+A1-LM-EGG-2	2023-08-03	LM					Egg (Generation 1)	2nd	Insect	A1-LM	2nd Generation - LM	Carrion Reared	
+A2-LM-EGG-2	2023-08-03	LM					Egg (Generation 1)	2nd	Insect	A2-LM	2nd Generation - LM	Carrion Reared	
+A3-LM-EGG-2	2023-08-03	LM					Egg (Generation 1)	2nd	Insect	A3-LM	2nd Generation - LM	Carrion Reared	
+A1-LM-Skin	2023-07-21	LM					CarcassLM		Carcass Skin (LM)	A1-LM			Larvae Collection
+A1-LM-Mouth	2023-07-21	LM					CarcassLM		Carcass Mouth (LM)	A1-LM			Larvae Collection
+A1-LM-Rectal	2023-07-21	LM					CarcassLM		Carcass Rectum (LM)	A1-LM			Larvae Collection
+A2-LM-Skin	2023-07-21	LM					CarcassLM		Carcass Skin (LM)	A2-LM			Larvae Collection
+A2-LM-Mouth	2023-07-21	LM					CarcassLM		Carcass Mouth (LM)	A2-LM			Larvae Collection
+A2-LM-Rectal	2023-07-21	LM					CarcassLM		Carcass Rectum (LM)	A2-LM			Larvae Collection
+A3-LM-Skin	2023-07-21	LM					CarcassLM		Carcass Skin (LM)	A3-LM			Larvae Collection
+A3-LM-Mouth	2023-07-21	LM					CarcassLM		Carcass Mouth (LM)	A3-LM			Larvae Collection
+A3-LM-Rectal	2023-07-21	LM					CarcassLM		Carcass Rectum (LM)	A3-LM			Larvae Collection

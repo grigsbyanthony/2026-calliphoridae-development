@@ -1,0 +1,5 @@
+Table S13. Tests for homogeneity of multivariate dispersions among carcass replicates.					
+Metric	df		F	p-value (ANOVA)	p-value (Permutation)
+Bray-Curtis	"2, 147"		0.46	0.634	0.629
+Unweighted UniFrac	"2, 147"		1.05	0.353	0.389
+Weighted UniFrac	"2, 147"		0.66	0.518	0.529

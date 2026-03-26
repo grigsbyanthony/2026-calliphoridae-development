@@ -1,0 +1,5 @@
+Table S11. PERMANOVA results for developmental stage effects on the beta diversity of lab-reared Phormia regina with permutations stratified by carcass replicate.					
+Metric	df	SS	R² (%)	F	p-value
+Bray-Curtis	4	22.52	44.12	28.62	0.001
+Unweighted UniFrac	4	9.44	34.55	19.14	0.001
+Weighted UniFrac	4	1.23	44.99	29.64	0.001
